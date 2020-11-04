@@ -7,3 +7,4 @@
 * Begin creating a Network Manager
 * Created OnClientConnect and OnServerAddPlayer
 * Adding NetworkPlayer
+* Begin adding server authority
