@@ -10,3 +10,5 @@
 * Begin adding server authority
 * Added client authority
   * Enables syncorization to all observers
+* Added simple Player movement
+  * End of Multi-Player basics
