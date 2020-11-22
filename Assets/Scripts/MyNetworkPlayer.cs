@@ -33,6 +33,7 @@ public class MyNetworkPlayer : NetworkBehaviour
     private void CmdSetDisplayName(string newDisplayName)
     {
         if (newDisplayName.Length < 2 || newDisplayName.Length > 20) { return; }
+
         RpcLogNewName(newDisplayName);
 
         SetDisplayName(newDisplayName);

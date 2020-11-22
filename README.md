@@ -8,3 +8,5 @@
 * Created OnClientConnect and OnServerAddPlayer
 * Adding NetworkPlayer
 * Begin adding server authority
+* Added client authority
+  * Enables syncorization to all observers
